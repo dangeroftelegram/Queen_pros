@@ -22,22 +22,23 @@ from haruka.modules.connection import connected
 
 PM_START = """ഹായ് 🤝 {},ഞാനാ....നിങ്ങളുടെ  {}😜!
 
-You know how hard it is sometimes to manage group so here is the solution for you
 
-I'm group manager bot and Anti-spam for RR Players🃏
+ഗ്രൂപ്പിൽ കയറാൻ വരുന്നവർ ഗ്രൂപ്പിനെ പറ്റിയും റൂൾസ് നെ  പറ്റിയും അറിയണം... 😌എന്നാൽ ഗ്രൂപ്പ് ഭരിക്കാൻ വരുന്നവൻ അവൻ ആരാ എന്ന് ബാക്കി ഉള്ളവരെ  അറിയിക്കണം!!😈
 
-Activate Anti-spam protection in your BM by this command : 
-/antispam on 
+നിങ്ങൾ ധൈര്യശലികൾ ആണോ😎  എന്നാൽ /help  ഇൽ തൊട്ട് നോക്കു!കമ്മാൻഡ്‌സ് ഒകെ വരുന്നത് കാണാം☠☠☠
 
-Made from the source code of [ঔৣ͡❂✦҈͜͡ৡৢ͜͡➛AsuraN᭄͜͡࿐ ❭](t.me/Danger_of_telegram)
 
-Special thanks to [this person](t.me/xditya) for helping me.
+ 
 
 
 
 
 
-Click /help or Help button below to find out more about how to use me to my full potential.
+
+
+
+
+
 
  Add me to a group by clicking [here](http://t.me/tg_GroupManagerBot?startgroup=true).
 """
